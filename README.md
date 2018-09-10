@@ -1,19 +1,19 @@
 # Papers
 ## RNN
-    ### NTU
-    **[1] NTU RGB+D: A Large Scale Dataset for 3D Human Activity Analysis**
-    - intro: CVPR 2016, NTU RGB-D Dataset, Part-Aware LSTM, Benchmark Evaluation
-    - arxiv: [https://arxiv.org/abs/1604.02808](https://arxiv.org/abs/1604.02808)
-    - github: [https://github.com/shahroudy/NTURGB-D](https://github.com/shahroudy/NTURGB-D)
+### NTU
+**[1] NTU RGB+D: A Large Scale Dataset for 3D Human Activity Analysis**
+- intro: CVPR 2016, NTU RGB-D Dataset, Part-Aware LSTM, Benchmark Evaluation
+- arxiv: [https://arxiv.org/abs/1604.02808](https://arxiv.org/abs/1604.02808)
+- github: [https://github.com/shahroudy/NTURGB-D](https://github.com/shahroudy/NTURGB-D)
 
-    **[2] Spatio-Temporal LSTM with Trust Gates for 3D Human Action Recognition**
-    - intro: T-PAMI 2017, Spatio-Temporal LSTM
-    - arxiv: [https://arxiv.org/abs/1607.07043](https://arxiv.org/abs/1607.07043)
-    - github: [https://github.com/kinect59/Spatio-Temporal-LSTM](https://github.com/kinect59/Spatio-Temporal-LSTM)
+**[2] Spatio-Temporal LSTM with Trust Gates for 3D Human Action Recognition**
+- intro: T-PAMI 2017, Spatio-Temporal LSTM
+- arxiv: [https://arxiv.org/abs/1607.07043](https://arxiv.org/abs/1607.07043)
+- github: [https://github.com/kinect59/Spatio-Temporal-LSTM](https://github.com/kinect59/Spatio-Temporal-LSTM)
 
-    **[3] Skeleton Based Human Action Recognition with Global Context-Aware Attention LSTM Networks**
-    - intro: CVPR 2017, Attention mechanism
-    - arxiv: [https://arxiv.org/abs/1707.05740](https://arxiv.org/abs/1707.05740)
+**[3] Skeleton Based Human Action Recognition with Global Context-Aware Attention LSTM Networks**
+- intro: CVPR 2017, Attention mechanism
+- arxiv: [https://arxiv.org/abs/1707.05740](https://arxiv.org/abs/1707.05740)
 
 ## CNN
 ### Hikvision
