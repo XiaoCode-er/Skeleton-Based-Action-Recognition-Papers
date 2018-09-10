@@ -1,2 +1,2 @@
-# Skeleton-Based-Action-Recognition-Papers
-The paper list about skeleton-based action recognition
+# Skeleton-Based Action Recognition Paper List
+
