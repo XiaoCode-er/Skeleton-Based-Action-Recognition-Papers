@@ -1,5 +1,5 @@
 # Papers
-## ```RNN```
+## RNN
 ***
 ### NTU
 **[1] NTU RGB+D: A Large Scale Dataset for 3D Human Activity Analysis**
@@ -17,7 +17,7 @@
 - arxiv: [https://arxiv.org/abs/1707.05740](https://arxiv.org/abs/1707.05740)
 ***
 
-> ## CNN
+## CNN
 ***
 ### Hikvision
 **[1] Skeleton-based Action Recognition with Convolutional Neural Networks**
@@ -28,7 +28,7 @@
 - intro: IJCAI 2018, Hierarchical co-occurrence feature, Transposing
 - arxiv: [https://arxiv.org/abs/1804.06055](https://arxiv.org/abs/1804.06055)
 ***
-> ## GCN
+## GCN
 **[1] Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition**
 - intro: AAAI 2018, Graph convolutional networks
 - arxiv: [https://arxiv.org/abs/1802.09834](https://arxiv.org/abs/1802.09834)
