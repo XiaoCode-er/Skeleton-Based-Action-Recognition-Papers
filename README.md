@@ -1,7 +1,7 @@
 # Papers
 ## RNN
-### NTU
 ***
+### NTU
 **[1] NTU RGB+D: A Large Scale Dataset for 3D Human Activity Analysis**
 - intro: CVPR 2016, NTU RGB-D Dataset, Part-Aware LSTM, Benchmark Evaluation
 - arxiv: [https://arxiv.org/abs/1604.02808](https://arxiv.org/abs/1604.02808)
@@ -18,8 +18,8 @@
 ***
 
 ## CNN
-### Hikvision
 ***
+### Hikvision
 **[1] Skeleton-based Action Recognition with Convolutional Neural Networks**
 - intro: ICMEW 2017, Two stream cnn, Transformer
 - arxiv: [https://arxiv.org/abs/1704.07595](https://arxiv.org/abs/1704.07595)
