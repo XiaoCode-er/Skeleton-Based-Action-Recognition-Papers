@@ -16,6 +16,14 @@
 - intro: CVPR 2017, Attention mechanism
 - arxiv: [https://arxiv.org/abs/1707.05740](https://arxiv.org/abs/1707.05740)
 ***
+**[4] Modeling Temporal Dynamics and Spatial Configurations of Actions Using Two-Stream Recurrent Neural Networks**
+- intro: CVPR 2017, Temporal RNN(Stacked RNN and Hierarchical RNN), Spatial RNN(Chain sequence and Traversal sequence)
+- arxiv: [https://arxiv.org/abs/1704.02581](https://arxiv.org/abs/1704.02581)
+- github: [https://github.com/hongsong-wang/RNN-for-skeletons](https://github.com/hongsong-wang/RNN-for-skeletons)
+
+**[5] Learning content and style: Joint action recognition and person identification from human skeletons**
+- intro: Pattern Recognition, Multi-task learning about action recognition and person identification
+- github: [https://github.com/hongsong-wang/Beyond-Joints](https://github.com/hongsong-wang/Beyond-Joints)
 
 ## CNN
 ***
