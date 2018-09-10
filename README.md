@@ -1,5 +1,5 @@
 # Papers
-> ## RNN
+## ```RNN```
 ***
 ### NTU
 **[1] NTU RGB+D: A Large Scale Dataset for 3D Human Activity Analysis**
