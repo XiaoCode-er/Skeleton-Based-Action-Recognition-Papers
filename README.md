@@ -1,5 +1,6 @@
 # Papers
 ## RNN
+***
 ### NTU
 **[1] NTU RGB+D: A Large Scale Dataset for 3D Human Activity Analysis**
 - intro: CVPR 2016, NTU RGB-D Dataset, Part-Aware LSTM, Benchmark Evaluation
@@ -14,6 +15,7 @@
 **[3] Skeleton Based Human Action Recognition with Global Context-Aware Attention LSTM Networks**
 - intro: CVPR 2017, Attention mechanism
 - arxiv: [https://arxiv.org/abs/1707.05740](https://arxiv.org/abs/1707.05740)
+***
 
 ## CNN
 ### Hikvision
