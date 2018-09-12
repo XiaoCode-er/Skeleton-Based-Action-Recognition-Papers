@@ -23,8 +23,12 @@
 - github: [https://github.com/hongsong-wang/RNN-for-skeletons](https://github.com/hongsong-wang/RNN-for-skeletons)
 
 **[5] Learning content and style: Joint action recognition and person identification from human skeletons**
-- intro: Pattern Recognition, Multi-task learning about action recognition and person identification
+- intro: TIP 2018, Multi-task learning about action recognition and person identification
 - github: [https://github.com/hongsong-wang/Beyond-Joints](https://github.com/hongsong-wang/Beyond-Joints)
+
+[**[6] Ensemble Deep Learning for Skeleton-based Action Recognition using Temporal Sliding LSTM networks**](http://openaccess.thecvf.com/content_ICCV_2017/papers/Lee_Ensemble_Deep_Learning_ICCV_2017_paper.pdf)
+- intro: ICCV 2017, Refine NTU-D dataset
+- github: [https://github.com/InwoongLee/TS-LSTM](https://github.com/InwoongLee/TS-LSTM)
 
 
 ## CNN
