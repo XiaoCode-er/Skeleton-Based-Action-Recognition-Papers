@@ -51,4 +51,6 @@
 [**[2] Deep Progressive Reinforcement Learning for Skeleton-based Action Recognition**](http://openaccess.thecvf.com/content_cvpr_2018/html/Tang_Deep_Progressive_Reinforcement_CVPR_2018_paper.html)
 - intro: CVPR 2018, Using reinforcement learning to select frames 
 
-
+| Author | Updated|
+| :---------: | :---------: |
+| Duohan Liang | 2018.9.20|
