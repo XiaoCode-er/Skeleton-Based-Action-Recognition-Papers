@@ -30,6 +30,20 @@
 - intro: ICCV 2017, Refine NTU-D dataset
 - github: [https://github.com/InwoongLee/TS-LSTM](https://github.com/InwoongLee/TS-LSTM)
 
+**[7] View Adaptive Recurrent Neural Networks for High Performance Human Action Recognition from Skeleton Data**
+- intro: ICCV 2017, View Adaptation Subnetwork (RNN)
+- arxiv: [https://arxiv.org/abs/1703.08274](https://arxiv.org/abs/1703.08274)
+
+
+**[8] View Adaptive Neural Networks for High Performance Skeleton-based Human Action Recognition**
+- intro: View Adaptation Subnetwork (RNN and CNN)
+- arxiv: [http://cn.arxiv.org/abs/1804.07453](http://cn.arxiv.org/abs/1804.07453)
+
+**[9] Independently Recurrent Neural Network (IndRNN): Building A Longer and Deeper RNN**
+- intro: CVPR 2018, Introduce the residual connectins to RNN
+- arxiv: [http://cn.arxiv.org/abs/1803.04831](http://cn.arxiv.org/abs/1803.04831)
+- github(TF): [https://github.com/batzner/indrnn](https://github.com/batzner/indrnn)
+- github(Pytorch): [https://github.com/StefOe/indrnn-pytorch](https://github.com/StefOe/indrnn-pytorch)
 
 ## CNN
 ***
