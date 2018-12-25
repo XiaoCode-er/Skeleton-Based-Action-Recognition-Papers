@@ -23,7 +23,7 @@
 - github: [https://github.com/hongsong-wang/RNN-for-skeletons](https://github.com/hongsong-wang/RNN-for-skeletons)
 
 **[5] Learning content and style: Joint action recognition and person identification from human skeletons**
-- intro: TIP 2018, Multi-task learning about action recognition and person identification
+- intro: PR 2018, Multi-task learning about action recognition and person identification
 - github: [https://github.com/hongsong-wang/Beyond-Joints](https://github.com/hongsong-wang/Beyond-Joints)
 
 [**[6] Ensemble Deep Learning for Skeleton-based Action Recognition using Temporal Sliding LSTM networks**](http://openaccess.thecvf.com/content_ICCV_2017/papers/Lee_Ensemble_Deep_Learning_ICCV_2017_paper.pdf)
@@ -44,6 +44,14 @@
 - arxiv: [http://cn.arxiv.org/abs/1803.04831](http://cn.arxiv.org/abs/1803.04831)
 - github(TF): [https://github.com/batzner/indrnn](https://github.com/batzner/indrnn)
 - github(Pytorch): [https://github.com/StefOe/indrnn-pytorch](https://github.com/StefOe/indrnn-pytorch)
+
+**[10] Skeleton-Based Action Recognition with Spatial Reasoning and Temporal Stack Learning**
+- intro: ECCV 2018, Spatial reasoning network, Temporal stack learning network
+- arxiv: [https://arxiv.org/abs/1805.02335v1](https://arxiv.org/abs/1805.02335v1)
+
+**[11] Adding Attentiveness to the Neurons in Recurrent Neural Networks**
+- intro: ECCV 2018, Element-wise-Attention Gate for an RNN Block
+- arxiv: [https://arxiv.org/abs/1807.04445v1](https://arxiv.org/abs/1807.04445v1)
 
 ## CNN
 ***
@@ -67,6 +75,6 @@
      
      
 ***
-| Updated: 2018/9/20|
+| Updated: 2018/12/25|
 | :---------: |
 
