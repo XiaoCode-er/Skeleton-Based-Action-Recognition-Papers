@@ -64,6 +64,11 @@
 - intro: IJCAI 2018, Hierarchical co-occurrence feature, Transposing
 - arxiv: [https://arxiv.org/abs/1804.06055](https://arxiv.org/abs/1804.06055)
 ***
+
+**[3] Skeleton-Based Action Recognition with Synchronous Local and Non-local Spatio-temporal Learning and Frequency Attention**
+- intro: Frequency domain analysis, Non-local operation, Soft-margin focal loss, Transform Network
+- arxiv: [https://arxiv.org/abs/1811.04237](https://arxiv.org/abs/1811.04237)
+
 ## GCN
 **[1] Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition**
 - intro: AAAI 2018, Graph convolutional networks
@@ -72,9 +77,12 @@
 
 [**[2] Deep Progressive Reinforcement Learning for Skeleton-based Action Recognition**](http://openaccess.thecvf.com/content_cvpr_2018/html/Tang_Deep_Progressive_Reinforcement_CVPR_2018_paper.html)
 - intro: CVPR 2018, Using reinforcement learning to select frames 
-     
+ 
+ **[3] Non-Local Graph Convolutional Networks for Skeleton-Based Action Recognition**
+- intro: Two stream gcn, Non-Local network
+- arxiv: [https://arxiv.org/abs/1805.07694v2](https://arxiv.org/abs/1805.07694v2)
      
 ***
-| Updated: 2018/12/25|
+| Updated: 2019/1/21|
 | :---------: |
 
