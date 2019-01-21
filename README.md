@@ -83,7 +83,7 @@
 - arxiv: [https://arxiv.org/abs/1805.07694v2](https://arxiv.org/abs/1805.07694v2)
      
 ***
-** Other GITHUB Repos for Skeleton-based Action Recognition Papers and Small Notes
+** Other GITHUB Repos for Skeleton-based Action Recognition Papers and Small Notes**
 - [https://github.com/cagbal/Skeleton-Based-Action-Recognition-Papers-and-Notes](https://github.com/cagbal/Skeleton-Based-Action-Recognition-Papers-and-Notes)
 ***
 | Updated: 2019/1/21|
