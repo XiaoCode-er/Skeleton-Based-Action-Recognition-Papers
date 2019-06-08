@@ -3,7 +3,7 @@
 ***
 ### NTU
 **[1] NTU RGB+D: A Large Scale Dataset for 3D Human Activity Analysis**
-- intro: CVPR 2016, NTU RGB-D Dataset, Part-Aware LSTM, Benchmark Evaluation
+- intro: CVPR 2016, NTU RGB-D 60 Dataset, Part-Aware LSTM, Benchmark Evaluation
 - arxiv: [https://arxiv.org/abs/1604.02808](https://arxiv.org/abs/1604.02808)
 - github: [https://github.com/shahroudy/NTURGB-D](https://github.com/shahroudy/NTURGB-D)
 - github(TF): [https://github.com/FesianXu/PLSTM](https://github.com/FesianXu/PLSTM)
@@ -16,6 +16,12 @@
 **[3] Skeleton Based Human Action Recognition with Global Context-Aware Attention LSTM Networks**
 - intro: CVPR 2017, Attention mechanism
 - arxiv: [https://arxiv.org/abs/1707.05740](https://arxiv.org/abs/1707.05740)
+
+**[4] NTU RGB+D 120: A Large-Scale Benchmark for 3D Human Activity Understanding**
+- intro: TPAMI 2019, NTU RGB-D 120 Dataset, One shot 3D Action Recognition
+- dataset: [http://rose1.ntu.edu.sg/datasets/actionrecognition.asp](NTU RGB-D 120)
+- arxiv: [https://arxiv.org/pdf/1905.04757.pdf](https://arxiv.org/pdf/1905.04757.pdf)
+
 ***
 **[4] Modeling Temporal Dynamics and Spatial Configurations of Actions Using Two-Stream Recurrent Neural Networks**
 - intro: CVPR 2017, Temporal RNN(Stacked RNN and Hierarchical RNN), Spatial RNN(Chain sequence and Traversal sequence)
