@@ -97,6 +97,9 @@
  **[5] An Attention Enhanced Graph Convolutional LSTM Network for Skeleton-Based Action Recognition**
 - intro: CVPR 2019, Graph Convolutional LSTM, Attention, Two part
 - arxiv: [https://arxiv.org/pdf/1902.09130.pdf](https://arxiv.org/pdf/1902.09130.pdf)
+
+ **[6] Two-Stream Adaptive Graph Convolutional Networks for Skeleton-Based Action Recognition**
+- github: [https://github.com/lshiwjx/2s-AGCN](https://github.com/lshiwjx/2s-AGCN)
      
 ***
 **Other GITHUB Repos for Skeleton-based Action Recognition Papers and Small Notes**
