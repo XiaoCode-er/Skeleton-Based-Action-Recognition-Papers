@@ -21,6 +21,7 @@
 - intro: TPAMI 2019, NTU RGB-D 120 Dataset, One shot 3D Action Recognition
 - dataset: [http://rose1.ntu.edu.sg/datasets/actionrecognition.asp](NTU RGB-D 120)
 - arxiv: [https://arxiv.org/pdf/1905.04757.pdf](https://arxiv.org/pdf/1905.04757.pdf)
+- github: [https://github.com/shahroudy/NTURGB-D](https://github.com/shahroudy/NTURGB-D)
 
 ***
 **[4] Modeling Temporal Dynamics and Spatial Configurations of Actions Using Two-Stream Recurrent Neural Networks**
@@ -87,6 +88,15 @@
  **[3] Non-Local Graph Convolutional Networks for Skeleton-Based Action Recognition**
 - intro: Two stream gcn, Non-Local network
 - arxiv: [https://arxiv.org/abs/1805.07694v2](https://arxiv.org/abs/1805.07694v2)
+
+ **[4] Actional-Structural Graph Convolutional Networks for Skeleton-based Action Recognition**
+- intro: CVPR 2019, Actional-Structural GCN
+- arxiv: [https://arxiv.org/pdf/1904.12659.pdf](https://arxiv.org/pdf/1904.12659.pdf)
+- github: [https://github.com/limaosen0/AS-GCN](https://github.com/limaosen0/AS-GCN)
+
+ **[5] An Attention Enhanced Graph Convolutional LSTM Network for Skeleton-Based Action Recognition**
+- intro: CVPR 2019, Graph Convolutional LSTM, Attention, Two part
+- arxiv: [https://arxiv.org/pdf/1902.09130.pdf](https://arxiv.org/pdf/1902.09130.pdf)
      
 ***
 **Other GITHUB Repos for Skeleton-based Action Recognition Papers and Small Notes**
