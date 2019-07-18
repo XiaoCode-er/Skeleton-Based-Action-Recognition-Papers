@@ -19,7 +19,7 @@
 
 **[4] NTU RGB+D 120: A Large-Scale Benchmark for 3D Human Activity Understanding**
 - intro: TPAMI 2019, NTU RGB-D 120 Dataset, One shot 3D Action Recognition
-- dataset: [http://rose1.ntu.edu.sg/datasets/actionrecognition.asp](NTU RGB-D 120)
+- dataset:[http://rose1.ntu.edu.sg/datasets/actionrecognition.asp](NTU RGB-D 120)
 - arxiv: [https://arxiv.org/pdf/1905.04757.pdf](https://arxiv.org/pdf/1905.04757.pdf)
 - github: [https://github.com/shahroudy/NTURGB-D](https://github.com/shahroudy/NTURGB-D)
 
