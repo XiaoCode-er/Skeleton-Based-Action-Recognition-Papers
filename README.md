@@ -106,6 +106,6 @@
 - [https://github.com/cagbal/Skeleton-Based-Action-Recognition-Papers-and-Notes](https://github.com/cagbal/Skeleton-Based-Action-Recognition-Papers-and-Notes)
 - [https://github.com/niais/Awesome-Skeleton-based-Action-Recognition](https://github.com/niais/Awesome-Skeleton-based-Action-Recognition)
 ***
-| Updated: 2019/6/8|
+| Updated: 2019/9/11|
 | :---------: |
 
