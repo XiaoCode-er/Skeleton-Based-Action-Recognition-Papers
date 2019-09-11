@@ -79,7 +79,7 @@
 ## GCN
 **[1] Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition**
 - intro: AAAI 2018, Graph convolutional networks
-- arxiv: [https://arxiv.org/pdf/1801.07455.pdf](https://arxiv.org/abs/1802.09834)
+- arxiv: [https://arxiv.org/pdf/1801.07455.pdf](https://arxiv.org/pdf/1801.07455.pdf)
 - github: [https://github.com/yysijie/st-gcn](https://github.com/yysijie/st-gcn)
 
 [**[2] Deep Progressive Reinforcement Learning for Skeleton-based Action Recognition**](http://openaccess.thecvf.com/content_cvpr_2018/html/Tang_Deep_Progressive_Reinforcement_CVPR_2018_paper.html)
