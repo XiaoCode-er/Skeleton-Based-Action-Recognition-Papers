@@ -76,6 +76,9 @@
 - intro: Frequency domain analysis, Non-local operation, Soft-margin focal loss, Transform Network
 - arxiv: [https://arxiv.org/abs/1811.04237](https://arxiv.org/abs/1811.04237)
 
+[**[4] Three-Stream Convolutional Neural Network with Multi-task and Ensemble Learning for 3D Action Recognition**](http://202.200.119.253/cache/5/03/openaccess.thecvf.com/6c9ec35804b22272907c9b9298eaa0a1/Liang_Three-Stream_Convolutional_Neural_Network_With_Multi-Task_and_Ensemble_Learning_for_CVPRW_2019_paper.pdf)
+- intro: CVPRW 2019, Multi-feature CNN, Muti-task and Ensemble 
+
 ## GCN
 **[1] Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition**
 - intro: AAAI 2018, Graph convolutional networks
@@ -100,12 +103,15 @@
 
  **[6] Two-Stream Adaptive Graph Convolutional Networks for Skeleton-Based Action Recognition**
 - github: [https://github.com/lshiwjx/2s-AGCN](https://github.com/lshiwjx/2s-AGCN)
-     
+
+[**[7] JOINTS RELATION INFERENCE NETWORK FOR SKELETON-BASED ACTION RECOGNITION**](https://ieeexplore.ieee.org/document/8802912)
+- intro: ICIP 2019, GCN+CNN, Optimal adjacency matrices  
+
 ***
 **Other GITHUB Repos for Skeleton-based Action Recognition Papers and Small Notes**
 - [https://github.com/cagbal/Skeleton-Based-Action-Recognition-Papers-and-Notes](https://github.com/cagbal/Skeleton-Based-Action-Recognition-Papers-and-Notes)
 - [https://github.com/niais/Awesome-Skeleton-based-Action-Recognition](https://github.com/niais/Awesome-Skeleton-based-Action-Recognition)
 ***
-| Updated: 2019/9/11|
+| Updated: 2019/10/11|
 | :---------: |
 
